@@ -1,0 +1,85 @@
+[
+  {
+    "id":"tt0105112",
+    "main_chracter":"Jack Ryan ",
+    "duration": "1h 57min",
+    "genre": "Action",
+    "email": "rcs0411@yahoo.com"
+
+  },
+  {
+      "id":"tt1204975",
+      "main_chracter":"Billy and Paddy ",
+      "duration": "1h 45min",
+      "genre":"Comedy",
+      "email": "billyandpaddy@yahoo.com"
+   
+  },
+  {
+      "id":"tt0243655",
+      "main_chracter":"Sujit R. Varma ",
+      "duration": "1h 37min",
+      "genre":"Romance",
+      "email": "rsujit12@yahoo.com"
+  },
+  {
+      "id":"tt0040897",
+      "main_chracter":"Fred C. Dobbs",
+      "duration": "2h 6min",
+      "genre":"Adventure",
+      "email": "jumblejim@prodigy.net"
+  },
+  {
+      "id":"tt0126886",
+      "main_chracter":"Jim McAllister",
+      "duration": "1h 43min",
+      "genre":"Drama",
+      "email": "falvey@scf.usc.edu"
+  },
+  {
+      "id":"tt0286716",
+      "main_chracter":"Bruce Banner",
+      "duration": "2h 18min",
+      "genre":"Sci-fi",
+      "email": "bruceba@gmail.com"
+  },
+  {
+      "id":"tt0090605",
+      "main_chracter":"Sigourney Weaver",
+      "duration": "2h 17min",
+      "genre":"Adventure",
+      "email": "blazesnakes@gmail.com"
+  },
+  {
+      "id":"tt0243155",
+      "main_chracter":"Bridget Jones",
+      "duration": "1h 37min",
+      "genre":"Comedy",
+      "email": "anujav@excite.com"
+  },
+  {
+      "id":"tt0121765",
+      "main_chracter":"Claudio Carvalho",
+      "duration": "2h 22min",
+      "genre":"Fantasy",
+      "email": "Janeiro@rio.com"
+  },
+  {
+    
+      "id":"tt0443453",
+      "main_chracter":"Borat Sagdiyev",
+      "duration": "1h 24min",
+      "genre":"Comedy",
+      "email": "hypersonic91@yahoo.com"
+  },
+  {
+      
+      "id":"tt0450259",
+      "main_chracter":"Miist",
+      "duration": "2h 23min",
+      "genre":"Thriller",
+      "email": "Miistmiist@yahoo.com"
+  }
+ 
+  
+]
